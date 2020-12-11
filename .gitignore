@@ -1,0 +1,7 @@
+# save, model, data폴더에 있는 파일들은 github에 push 안함
+# 용량 커서 터짐
+data/*
+berry_bear.npz
+flask/bear_strawberry_softmax.h5
+flask/model_031200.h5
+flask/static/out.png
